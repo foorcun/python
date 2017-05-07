@@ -1,0 +1,3 @@
+virtualenv  venv      bu klasorlerý yukler
+
+.\venv\Scripts\activate    active eder
